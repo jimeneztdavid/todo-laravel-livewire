@@ -47,6 +47,11 @@ php artisan migrate:fresh --seed
 php artisan serve
 ```
 
+## Default User
+email: user@example.com
+
+password: password
+
 ## Open in Browser
 localhost:8000
 
